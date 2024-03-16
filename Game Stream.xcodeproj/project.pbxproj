@@ -14,6 +14,29 @@
 		C244E54C2B9E408A00F42F38 /* Game_StreamTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E54B2B9E408A00F42F38 /* Game_StreamTests.swift */; };
 		C244E5562B9E408A00F42F38 /* Game_StreamUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5552B9E408A00F42F38 /* Game_StreamUITests.swift */; };
 		C244E5582B9E408A00F42F38 /* Game_StreamUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5572B9E408A00F42F38 /* Game_StreamUITestsLaunchTests.swift */; };
+		C244E5662B9E797400F42F38 /* UIButtonSeccion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5652B9E797400F42F38 /* UIButtonSeccion.swift */; };
+		C244E5682B9FD5F300F42F38 /* OtherButoons.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5672B9FD5F300F42F38 /* OtherButoons.swift */; };
+		C244E56A2B9FDB4600F42F38 /* LoginTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5692B9FDB4600F42F38 /* LoginTitle.swift */; };
+		C244E56D2B9FDBBF00F42F38 /* InicioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E56C2B9FDBBE00F42F38 /* InicioView.swift */; };
+		C244E56F2B9FE62100F42F38 /* InputLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E56E2B9FE62100F42F38 /* InputLogin.swift */; };
+		C244E5722B9FEB5500F42F38 /* PerfilImageAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5712B9FEB5500F42F38 /* PerfilImageAdd.swift */; };
+		C244E5742B9FEBB100F42F38 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5732B9FEBB100F42F38 /* RegisterView.swift */; };
+		C244E5762BA28DE200F42F38 /* HomeTabVarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5752BA28DE200F42F38 /* HomeTabVarView.swift */; };
+		C244E5792BA3F68600F42F38 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5782BA3F68600F42F38 /* HomeView.swift */; };
+		C244E57B2BA3F6FA00F42F38 /* ButtonCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E57A2BA3F6FA00F42F38 /* ButtonCategory.swift */; };
+		C244E57E2BA47F0B00F42F38 /* GameModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E57D2BA47F0B00F42F38 /* GameModels.swift */; };
+		C244E5802BA4836900F42F38 /* JuegosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E57F2BA4836900F42F38 /* JuegosView.swift */; };
+		C244E5832BA483E000F42F38 /* GamesViewModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5822BA483E000F42F38 /* GamesViewModels.swift */; };
+		C244E5852BA494FA00F42F38 /* CreateTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5842BA494FA00F42F38 /* CreateTitle.swift */; };
+		C244E5882BA4A20E00F42F38 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = C244E5872BA4A20E00F42F38 /* Kingfisher */; };
+		C244E58A2BA4B9F300F42F38 /* GameDetailsView .swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5892BA4B9F300F42F38 /* GameDetailsView .swift */; };
+		C244E58C2BA4D0EB00F42F38 /* AVPlayerViewControllerWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E58B2BA4D0EB00F42F38 /* AVPlayerViewControllerWrapper.swift */; };
+		C244E58E2BA4E00600F42F38 /* otherGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E58D2BA4E00600F42F38 /* otherGame.swift */; };
+		C244E5902BA4EB0E00F42F38 /* FeddBack.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E58F2BA4EB0E00F42F38 /* FeddBack.swift */; };
+		C244E5922BA5133C00F42F38 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5912BA5133C00F42F38 /* SearchView.swift */; };
+		C244E5942BA52CEC00F42F38 /* FavoritosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5932BA52CEC00F42F38 /* FavoritosView.swift */; };
+		C244E5962BA5354A00F42F38 /* FavoritoCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C244E5952BA5354A00F42F38 /* FavoritoCard.swift */; };
+		C2669DFE2BA5DA37000D1994 /* PerfilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2669DFD2BA5DA37000D1994 /* PerfilView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +67,28 @@
 		C244E5512B9E408A00F42F38 /* Game StreamUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Game StreamUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C244E5552B9E408A00F42F38 /* Game_StreamUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game_StreamUITests.swift; sourceTree = "<group>"; };
 		C244E5572B9E408A00F42F38 /* Game_StreamUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game_StreamUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C244E5652B9E797400F42F38 /* UIButtonSeccion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonSeccion.swift; sourceTree = "<group>"; };
+		C244E5672B9FD5F300F42F38 /* OtherButoons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherButoons.swift; sourceTree = "<group>"; };
+		C244E5692B9FDB4600F42F38 /* LoginTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTitle.swift; sourceTree = "<group>"; };
+		C244E56C2B9FDBBE00F42F38 /* InicioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InicioView.swift; sourceTree = "<group>"; };
+		C244E56E2B9FE62100F42F38 /* InputLogin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputLogin.swift; sourceTree = "<group>"; };
+		C244E5712B9FEB5500F42F38 /* PerfilImageAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilImageAdd.swift; sourceTree = "<group>"; };
+		C244E5732B9FEBB100F42F38 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
+		C244E5752BA28DE200F42F38 /* HomeTabVarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabVarView.swift; sourceTree = "<group>"; };
+		C244E5782BA3F68600F42F38 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		C244E57A2BA3F6FA00F42F38 /* ButtonCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonCategory.swift; sourceTree = "<group>"; };
+		C244E57D2BA47F0B00F42F38 /* GameModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameModels.swift; sourceTree = "<group>"; };
+		C244E57F2BA4836900F42F38 /* JuegosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosView.swift; sourceTree = "<group>"; };
+		C244E5822BA483E000F42F38 /* GamesViewModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamesViewModels.swift; sourceTree = "<group>"; };
+		C244E5842BA494FA00F42F38 /* CreateTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateTitle.swift; sourceTree = "<group>"; };
+		C244E5892BA4B9F300F42F38 /* GameDetailsView .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GameDetailsView .swift"; sourceTree = "<group>"; };
+		C244E58B2BA4D0EB00F42F38 /* AVPlayerViewControllerWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVPlayerViewControllerWrapper.swift; sourceTree = "<group>"; };
+		C244E58D2BA4E00600F42F38 /* otherGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otherGame.swift; sourceTree = "<group>"; };
+		C244E58F2BA4EB0E00F42F38 /* FeddBack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeddBack.swift; sourceTree = "<group>"; };
+		C244E5912BA5133C00F42F38 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		C244E5932BA52CEC00F42F38 /* FavoritosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritosView.swift; sourceTree = "<group>"; };
+		C244E5952BA5354A00F42F38 /* FavoritoCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritoCard.swift; sourceTree = "<group>"; };
+		C2669DFD2BA5DA37000D1994 /* PerfilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +96,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C244E5882BA4A20E00F42F38 /* Kingfisher in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,8 +140,13 @@
 		C244E5392B9E408800F42F38 /* Game Stream */ = {
 			isa = PBXGroup;
 			children = (
+				C244E5812BA4839600F42F38 /* ViewModels */,
 				C244E53A2B9E408800F42F38 /* Game_StreamApp.swift */,
 				C244E53C2B9E408800F42F38 /* ContentView.swift */,
+				C244E57C2BA47EE800F42F38 /* Models */,
+				C244E5702B9FE75800F42F38 /* LoginView */,
+				C244E5772BA28DF100F42F38 /* Views */,
+				C244E5642B9E794300F42F38 /* UI */,
 				C244E53E2B9E408A00F42F38 /* Assets.xcassets */,
 				C244E5402B9E408A00F42F38 /* Preview Content */,
 			);
@@ -127,6 +178,63 @@
 			path = "Game StreamUITests";
 			sourceTree = "<group>";
 		};
+		C244E5642B9E794300F42F38 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				C244E56E2B9FE62100F42F38 /* InputLogin.swift */,
+				C244E5652B9E797400F42F38 /* UIButtonSeccion.swift */,
+				C244E5672B9FD5F300F42F38 /* OtherButoons.swift */,
+				C244E57A2BA3F6FA00F42F38 /* ButtonCategory.swift */,
+				C244E5842BA494FA00F42F38 /* CreateTitle.swift */,
+				C244E58D2BA4E00600F42F38 /* otherGame.swift */,
+				C244E5912BA5133C00F42F38 /* SearchView.swift */,
+				C244E5952BA5354A00F42F38 /* FavoritoCard.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		C244E5702B9FE75800F42F38 /* LoginView */ = {
+			isa = PBXGroup;
+			children = (
+				C244E5692B9FDB4600F42F38 /* LoginTitle.swift */,
+				C244E5712B9FEB5500F42F38 /* PerfilImageAdd.swift */,
+				C244E56C2B9FDBBE00F42F38 /* InicioView.swift */,
+				C244E5732B9FEBB100F42F38 /* RegisterView.swift */,
+			);
+			path = LoginView;
+			sourceTree = "<group>";
+		};
+		C244E5772BA28DF100F42F38 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				C244E5752BA28DE200F42F38 /* HomeTabVarView.swift */,
+				C244E5782BA3F68600F42F38 /* HomeView.swift */,
+				C244E57F2BA4836900F42F38 /* JuegosView.swift */,
+				C244E5892BA4B9F300F42F38 /* GameDetailsView .swift */,
+				C244E5932BA52CEC00F42F38 /* FavoritosView.swift */,
+				C2669DFD2BA5DA37000D1994 /* PerfilView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		C244E57C2BA47EE800F42F38 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C244E57D2BA47F0B00F42F38 /* GameModels.swift */,
+				C244E58B2BA4D0EB00F42F38 /* AVPlayerViewControllerWrapper.swift */,
+				C244E58F2BA4EB0E00F42F38 /* FeddBack.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C244E5812BA4839600F42F38 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				C244E5822BA483E000F42F38 /* GamesViewModels.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +251,9 @@
 			dependencies = (
 			);
 			name = "Game Stream";
+			packageProductDependencies = (
+				C244E5872BA4A20E00F42F38 /* Kingfisher */,
+			);
 			productName = "Game Stream";
 			productReference = C244E5372B9E408800F42F38 /* Game Stream.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +326,9 @@
 				Base,
 			);
 			mainGroup = C244E52E2B9E408800F42F38;
+			packageReferences = (
+				C244E5862BA4A20E00F42F38 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+			);
 			productRefGroup = C244E5382B9E408800F42F38 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,8 +371,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C244E5742B9FEBB100F42F38 /* RegisterView.swift in Sources */,
+				C244E5902BA4EB0E00F42F38 /* FeddBack.swift in Sources */,
 				C244E53D2B9E408800F42F38 /* ContentView.swift in Sources */,
+				C244E5852BA494FA00F42F38 /* CreateTitle.swift in Sources */,
+				C244E56D2B9FDBBF00F42F38 /* InicioView.swift in Sources */,
+				C244E58C2BA4D0EB00F42F38 /* AVPlayerViewControllerWrapper.swift in Sources */,
+				C244E58A2BA4B9F300F42F38 /* GameDetailsView .swift in Sources */,
+				C244E5802BA4836900F42F38 /* JuegosView.swift in Sources */,
+				C244E5762BA28DE200F42F38 /* HomeTabVarView.swift in Sources */,
+				C244E58E2BA4E00600F42F38 /* otherGame.swift in Sources */,
+				C244E5922BA5133C00F42F38 /* SearchView.swift in Sources */,
+				C244E5682B9FD5F300F42F38 /* OtherButoons.swift in Sources */,
+				C244E5792BA3F68600F42F38 /* HomeView.swift in Sources */,
 				C244E53B2B9E408800F42F38 /* Game_StreamApp.swift in Sources */,
+				C244E56A2B9FDB4600F42F38 /* LoginTitle.swift in Sources */,
+				C244E5962BA5354A00F42F38 /* FavoritoCard.swift in Sources */,
+				C2669DFE2BA5DA37000D1994 /* PerfilView.swift in Sources */,
+				C244E5722B9FEB5500F42F38 /* PerfilImageAdd.swift in Sources */,
+				C244E5942BA52CEC00F42F38 /* FavoritosView.swift in Sources */,
+				C244E57B2BA3F6FA00F42F38 /* ButtonCategory.swift in Sources */,
+				C244E5662B9E797400F42F38 /* UIButtonSeccion.swift in Sources */,
+				C244E5832BA483E000F42F38 /* GamesViewModels.swift in Sources */,
+				C244E57E2BA47F0B00F42F38 /* GameModels.swift in Sources */,
+				C244E56F2B9FE62100F42F38 /* InputLogin.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -588,6 +724,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		C244E5862BA4A20E00F42F38 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.11.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		C244E5872BA4A20E00F42F38 /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C244E5862BA4A20E00F42F38 /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = C244E52F2B9E408800F42F38 /* Project object */;
 }

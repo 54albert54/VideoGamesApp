@@ -8,17 +8,36 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+  
+   
+        
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        NavigationStack{
+            
+         
+            
+            ZStack {
+                Color("mainColor").edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+                VStack{
+                    LoginTitle()
+                    OtherButoons()
+                    Spacer()
+                }
+            }.background()
+        
         }
-        .padding()
     }
 }
 
 #Preview {
-    ContentView()
+        ContentView()
 }
+
+
+
+
+
+
+
+
